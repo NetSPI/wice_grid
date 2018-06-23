@@ -6,6 +6,7 @@ module Wice #:nodoc:
       :action,                 'column_action',               # Special processor for action column, columns with checkboxes
       :text,                   'column_string',
       :string,                 'column_string',
+      :bigint,                 'column_string',
       :rails_datetime_helper,  'column_rails_datetime_helper',       # standard Rails datepicker helper
       :rails_date_helper,      'column_rails_date_helper',           # standard Rails date helper
       :jquery_datepicker,      'column_jquery_datepicker',
